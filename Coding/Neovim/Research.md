@@ -3,4 +3,3 @@
 
 ## Videos
 - [Productivity Tips](https://www.reddit.com/r/neovim/comments/1ir5mkj/neovim_tips_to_accelerate_your_productivity/)
-- 

@@ -1,6 +1,5 @@
 ## Amazon Link
 [Clean Code in Python by Mariano Anaya](https://www.amazon.com/Clean-Code-Python-maintainable-efficient/dp/1800560214)
-
 ## Referenced Books
 # Notes
 ## Chapter 1 - Introduction
